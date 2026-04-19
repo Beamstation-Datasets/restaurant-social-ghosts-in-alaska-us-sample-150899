@@ -6,17 +6,17 @@
   "config_category": "social",
   "config_description": "Marketing Agency Gold. High-rated restaurants (>4.5 rating) with low to zero social presence (<100 followers OR no social profiles) for social media marketing. Great product, terrible distribution -> Pitch them Growth.",
   "config_name": "Restaurant Social Ghosts in Alaska, US",
-  "export_job_id": "a6352eb5-5142-4ada-8487-51e9a0b6aca3",
+  "export_job_id": "66fb3ab1-a9cc-4e5b-a635-9578a1230b63",
   "github_org": "Beamstation-Datasets",
   "id_short": 150899,
   "location_name": "Alaska",
   "location_type": "state",
   "repo_name": "restaurant-social-ghosts-in-alaska-us-sample-150899",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/150899/beamstation_150899_restaurants-us-ak_SAMPLE_DIST.csv",
-  "sample_pct": 33.33,
+  "sample_pct": 20.0,
   "sample_records": 1,
-  "sample_sha256": "aaacf950e3fd546b7efe735fb918452941f2dbec3ce5ac1cdcba1784b8695505",
+  "sample_sha256": "da94003d2b4cc2f1bfc391c7a79b9f8cab527968a2ccf62f3beee35050ff30bb",
   "sample_size_bytes": 19714,
-  "total_records": 3,
-  "updated_at": "2026-04-08T04:29:15.620731+00:00"
+  "total_records": 5,
+  "updated_at": "2026-04-15T09:06:02.828007+00:00"
 }
