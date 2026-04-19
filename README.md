@@ -9,9 +9,9 @@
 | Dataset ID | `150899` |
 | Location | Alaska |
 | Category | Restaurants |
-| Full dataset size | 3 records |
-| Free sample size | 1 records (33.33%) |
-| Last export | 2026-04-08T04:29:15.620731+00:00 |
+| Full dataset size | 5 records |
+| Free sample size | 1 records (20.0%) |
+| Last export | 2026-04-15T09:06:02.828007+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-alaska-us-sample-150899/releases/download/sample-latest/beamstation_150899_restaurants-us-ak_SAMPLE_DIST.csv) |
 
 ## What is in this sample
