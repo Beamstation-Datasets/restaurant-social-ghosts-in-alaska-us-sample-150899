@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a6352eb5-5142-4ada-8487-51e9a0b6aca3",
+  "export_job_id": "66fb3ab1-a9cc-4e5b-a635-9578a1230b63",
   "id_short": 150899,
-  "published_at": "2026-04-10T19:17:03Z",
+  "published_at": "2026-04-19T07:33:48Z",
   "repo_name": "restaurant-social-ghosts-in-alaska-us-sample-150899",
   "sample_asset_name": "beamstation_150899_restaurants-us-ak_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/150899/beamstation_150899_restaurants-us-ak_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "aaacf950e3fd546b7efe735fb918452941f2dbec3ce5ac1cdcba1784b8695505",
+  "sample_sha256": "da94003d2b4cc2f1bfc391c7a79b9f8cab527968a2ccf62f3beee35050ff30bb",
   "sample_size_bytes": 19714,
-  "total_records": 3
+  "total_records": 5
 }
